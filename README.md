@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @yashwanth-cd
-- 👀 I’m interested in FrontEnd Development
-- 🌱 I’m currently learning JavaScript along with projects
-- 💞️ I’m looking to collaborate on Tech company that allows me to enhance my skills and improve in the field
+- 👋 Hi, I’m @yashwanth sai .C
+- 👀 I’m interested in FrontEnd Development.
+- 🌱 I’m currently learning JavaScript along with projects.
+- 💞️ I’m looking to collaborate on Tech company that allows me to enhance my skills and improve in the field.
 
 
 <!---

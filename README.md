@@ -32,7 +32,7 @@ Integrations: Google API | Slack API | Notion API
 
 ### 🛠 Dev Tools & Others
 
-Git | GitHub | Vercel | Netlify | Docker
+Git | GitHub | Vercel | Netlify 
 
 Figma | Storybook | Postman
 

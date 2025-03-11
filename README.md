@@ -50,6 +50,6 @@ Gmail: yashwanth.3270@gmail.com
 
 GitHub: https://github.com/yashwanth-cd
 
-LinkedIn: linkedin.com/in/yashwanth-sai-chuppala32
+LinkedIn: https://linkedin.com/in/yashwanth-sai-chuppala32
 
 ### 💡 Always excited to collaborate on new projects and open-source contributions!

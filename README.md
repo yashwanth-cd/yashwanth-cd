@@ -1,12 +1,12 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Yashwanth 👋
 
-🚀 React Developer | 1 Year Experience
+## 🚀 React Developer | 1 Year Experience
 
 I'm a passionate React Developer with 1 year of experience, building scalable, efficient, and high-performing web applications. I specialize in developing interactive UIs, optimizing performance, and integrating modern technologies to enhance user experience.
 
-🔥 Expertise & Tech Stack
+## 🔥 Expertise & Tech Stack
 
-📌 Frontend
+### 📌 Frontend
 
 React.js | Next.js | Vite | Redux (Toolkit) | Zustand | React Query | React Hook Form
 
@@ -18,13 +18,13 @@ State Management: Redux | Context API | Zustand
 
 Animations & Interactions: Framer Motion | React Spring
 
-⚡ Backend & Database
+### ⚡ Backend & Database
 
 Backend: Node.js | Express.js | Firebase | Clerk (Authentication)
 
 Databases: PostgreSQL (Neon), Prisma ORM | Firebase Firestore
 
-🔌 APIs & Integrations
+### 🔌 APIs & Integrations
 
 Auth & Security: Auth0 | Clerk | JWT
 
@@ -32,7 +32,7 @@ Automation & Webhooks: Nango | Zapier | Make
 
 Integrations: Gmail API | Slack API | Notion API
 
-🛠 Dev Tools & Others
+### 🛠 Dev Tools & Others
 
 Git | GitHub | Vercel | Netlify | Docker
 
@@ -40,20 +40,18 @@ CI/CD | Jest | Cypress | Playwright
 
 Figma | Storybook | Postman
 
-💡 What I’m Working On
+## 💡 What I’m Working On
 
-🚀 Building SaaS automation platforms to connect apps & services
+🚀 Building Saas application platforms to connect apps & services
 
-💻 Creating dynamic form libraries with schema-based generation
+💻 Building Web application to connect users and services
 
-📈 Stock market analytics & automation tools
+### 📫 Let's Connect!
 
-📫 Let's Connect!
+GitHub: github.com/yashwanth-cd
 
-GitHub: github.com/yourusername
-
-LinkedIn: linkedin.com/in/yourname
+LinkedIn: linkedin.com/in/yashwanth-sai-chuppala32
 
 Portfolio: yourportfolio.com
 
-💡 Always excited to collaborate on new projects and open-source contributions!
+### 💡 Always excited to collaborate on new projects and open-source contributions!

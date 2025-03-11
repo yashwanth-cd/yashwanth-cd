@@ -48,7 +48,7 @@ Figma | Storybook | Postman
 
 Gmail: yashwanth.3270@gmail.com
 
-GitHub: github.com/yashwanth-cd
+GitHub: https://github.com/yashwanth-cd
 
 LinkedIn: linkedin.com/in/yashwanth-sai-chuppala32
 

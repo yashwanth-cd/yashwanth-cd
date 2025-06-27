@@ -1,55 +1,54 @@
-# Hi there, I'm Yashwanth 👋
+# 👋 Hi there, I'm Yashwanth Sai Chuppala
 
-## 🚀 React Developer | 1.5 Year Experience
+## 🚀 React Developer | 1.5+ Years of Experience
 
-I'm a passionate React.js Developer building scalable, efficient, and high-performing web applications, Saas platforms, Mobile applications. I specialize in developing interactive UIs, optimizing performance, and integrating modern technologies to enhance user experience.
+I'm a passionate React.js Developer with hands-on experience building **scalable**, **efficient**, and **high-performing** web applications and SaaS platforms. I specialize in creating interactive UIs, optimizing performance, and integrating modern technologies to deliver seamless user experiences.
 
-## 🔥 Expertise & Tech Stack
+---
 
-### 📌 Frontend
+## 🛠 Tech Stack & Expertise
 
-React.js | Next.js | Vite | Redux (Toolkit) | Expo | Zustand | React Query | React Hook Form
+### 🖥️ Frontend
 
-UI Libraries: Tailwind CSS | Styled Components | ShadCN | Acertinity.ui | Material-UI (MUI) | Ant Design | Chakra UI 
+- **Frameworks & Libraries:** React.js, Next.js, Vite  
+- **State Management:** Redux Toolkit, Zustand, Context API, React Query  
+- **UI Libraries:** Tailwind CSS, Styled Components, ShadCN, Acertinity UI, MUI, Ant Design, Chakra UI  
+- **Forms & Validation:** React Hook Form, RJSF (JSON Schema), SurveyJS, Yup, Zod  
+- **Animations:** Framer Motion
 
-Forms, Schema & Validation: RJSF (React JSON Schema Form) | SurveyJS | Yup | Zod 
+### ⚙️ Backend & Database
 
-State Management: Redux | Context API | Zustand
+- **Backend:** Node.js, Express.js, Firebase, AppWrite  
+- **Auth:** Clerk, Auth0, JWT, OAuth  
+- **Databases:** PostgreSQL (via Neon), Prisma ORM, Supabase
 
-Animations & Interactions: Framer Motion
+### 🔗 APIs & Integrations
 
-### ⚡ Backend & Database
+- **Integrations:** Google API, Slack API, Notion API
 
-Backend: Node.js | Express.js | Firebase  | Clerk (Authentication)
+### 🔧 Tools & Others
 
-Databases: PostgreSQL (Neon), Prisma ORM | AppWrite | SupaBase
+- **Dev Tools:** Git, GitHub, Vercel, Netlify  
+- **Design & Collaboration:** Figma, Storybook, Postman
 
-### 🔌 APIs & Integrations
+---
 
-Auth & Security: OAuth | Auth0 | Clerk | JWT
+## 💡 What I'm Currently Working On
 
-Integrations: Google API | Slack API | Notion API
+- 🚀 Building **SaaS platforms** to connect apps & services  
+- 💻 Developing **CRM** systems tailored for **marketing agencies**  
+- 🌐 Creating **web applications** with intuitive UI/UX and performance in mind
 
-### 🛠 Dev Tools & Others
+---
 
-Git | GitHub | Vercel | Netlify 
+## 📫 Let's Connect!
 
-Figma | Storybook | Postman
+- **📧 Email:** yashwanth.3270@gmail.com  
+- **💻 GitHub:** [@yashwanth-cd](https://github.com/yashwanth-cd)  
+- **🔗 LinkedIn:** [Yashwanth Sai Chuppala](https://linkedin.com/in/yashwanth-sai-chuppala32)
 
-### 💡 What I’m Working On
+---
 
-🚀 Building Saas application platforms to connect apps & services
+## 🤝 Open to Collaborate
 
-💻 Building Web applications to connect users and services
-
-📱 Building Mobile applications with user-friendly UI/UX
-
-### 📫 Let's Connect!
-
-Gmail: yashwanth.3270@gmail.com
-
-GitHub: https://github.com/yashwanth-cd
-
-LinkedIn: https://linkedin.com/in/yashwanth-sai-chuppala32
-
-### 💡 Always excited to collaborate on new projects and open-source contributions!
+I'm always excited to work on **innovative projects**, **startup ideas**, or **open-source contributions**. Feel free to reach out!

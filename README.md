@@ -1,8 +1,8 @@
 # Hi there, I'm Yashwanth 👋
 
-## 🚀 React Developer | 1 Year Experience
+## 🚀 React Developer | 1.5 Year Experience
 
-I'm a passionate React Developer with 1 year of experience, building scalable, efficient, and high-performing web applications, Saas platforms, Mobile applications. I specialize in developing interactive UIs, optimizing performance, and integrating modern technologies to enhance user experience.
+I'm a passionate React.js Developer building scalable, efficient, and high-performing web applications, Saas platforms, Mobile applications. I specialize in developing interactive UIs, optimizing performance, and integrating modern technologies to enhance user experience.
 
 ## 🔥 Expertise & Tech Stack
 
